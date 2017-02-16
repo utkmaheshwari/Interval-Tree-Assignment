@@ -1,7 +1,7 @@
 /*
-Name : 				Utkarsh Maheshwari
+Name : Utkarsh Maheshwari
 Enrollment Number : 13115130
-Class : 		    B.Tech, 4th Year, Electrical Engineering
+Class : B.Tech, 4th Year, Electrical Engineering
 */
 
 #include<iostream>
